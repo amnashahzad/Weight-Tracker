@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #container {
+    margin: 20px auto;
+    width: 300px;
+  }
+  
+  #weightInput {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  #addButton {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  #addButton:hover {
+    opacity: 0.8;
+  }
+  
+  #weightList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .weight-entry {
+    margin-bottom: 5px;
+  }
+  
+  .weight-date {
+    font-weight: bold;
+    margin-bottom: 2px;
+  }
+  
+  .weight-value {
+    color: #666;
+  }
+  
